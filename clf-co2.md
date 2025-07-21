@@ -693,4 +693,131 @@
     - **Exam: Call SNS notifications with AWS Step Functions**
 - A2P functionality lets you send messages to customers with SMS, push notifications, and email
 
-## Amazon Simple 
+
+## Machine Learning in a Nutshell
+- Machine Learning assists organizations in generating growth, discovering new revenue strems, and fixing challenging issues.
+- Data is a critical success factor (CSF) in business decision-making, and companies have typically leveraged data from various sources, such as customer feedback, employees, finance, and consultants:
+    - Machin learning research automates and optimizes this process
+- Businesses can get results quicker by using code taht analyzes very large data sets at high speeds.
+
+## Machine Learning Use Cases
+- **Manufacturing** - support predictive maintenance, quality control, and inventive research in the manufacturing sector:
+    - ML technology also assists companies in improving logistical solutions, supply chains, and inventory control.
+- **Healthcare and life sciences** - the explosion of wearable sensors has resulted in a substantial amount of health data being generated:
+    - ML solutions can analyze the data and support physicians in real-time diagnosis and treatment.
+- **Financial services** - projects enhance risk analytics and regulation adherence:
+    - ML technology can help investors recognize new prospects by analyzing stock market trends, appraising hedge funds, or adjusting portfolios.
+- **Retail** - initiatives can improve customer service, stock management, ujpselling, and cross-channel marketing.
+- **Media and entertainment** - this sector uses ML to better appreciate their target audiences and distribute immersive, tailor-made (bespoke), and on-demand content:
+    - ML algorithms are used to help design trailers and otehr advertisements, offer customers content recommendations, and streamline production.
+
+## Artificial Intelligence in a Nutshell
+- This is a domain of computer science focused on solving cognitive problems universally associated with human intellgence:
+    - Learning
+    - Problem Solving
+    - Pattern Recognition
+- Although AI can often invoke robotics or even futuristic dystopian panoramas, it transcends the automatons of science fiction into the non-fiction of modern-day advanced computer science.
+
+## Amazon SageMaker (First Step)
+- SageMaker empowers AWS customers to build, train, and deploy machine learning models for any use case with fully managed infrastructure, tools, and workflows
+- Amazon SageMaker JumpStart offers a set of solutions for common use cases that can be deployed with just a few clicks to make it easier to get started.
+- The solutions are fully customizable and supports one-click deployment and fine-tuning of more than 150 popular open-source models such as natural language processing, object detection, and image classification.
+
+## Amazon Lex (Chatbot)
+- A fully managed artificial intelligence service with cutting-edge natural language models for designing, constructing, testing, and releasing conversational interfaces in applications and mobile apps:
+    - Virtual agents and voice assistants 
+    - Informational response automation
+    - Application bots for enhancing productivity
+    - Chatbots using existing contact center transcripts
+
+## Amazon Kendra (similar to ChatGPT)
+- Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music
+- It is powered by very large ML models that are pre-trained on large amounts of data and is usually referrred to as a foundation model (FM)
+- Customers use Amazon Kendra with large language models (LLMs) to rapidly construct secure, generative AI-powered conversational experiences for users on top of enterprise content
+
+### Amazon Kendra Use Cases
+- Deploy a fine-tuned and cohesive search experience across multiple strucutred and unstructured content sources
+- Use natural language processing (NLP) to attain decidedly accurate answers without any ML experience
+- Provide ML-powered instant answers, FAQs, and document ranking using a fully managed service
+
+## Amazon Athena
+- Serverless, interactive analytics solution built on open-source frameworks.
+- It supports open-table and file formats
+- Athena delivers a flexible and easy way to analyze petabyts of data right where it resides.
+- There is no provisioning or configuration effort required on the client side
+- **Use Athena if you need to search through large amounts of S3 bucket data**
+
+## Amazon Polly
+- Is for deploying high-quality, natural-sounding human voices in dozens of languages.
+
+## Amazon Rekognition
+- Is for analyzing millions of images, streaming, and stored videos within seconds, and augment human review tasks with artificial intelligence.
+
+## Amazon Kinesis
+- Collect, process and analyze realtime, streaming data to gain timely insights anreact quickly to new information.
+- Ingest real-time data suchy as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications
+- Process and analyze data as it arrives and respond instantly instead of having to wait until all the data is collected before the process can begin.
+
+## AWS Glue
+- A serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources.
+- Used for analytics, ML, and application development.
+
+## Amazon QuickSight
+- Business Intelligence (BI) service, customers can easlity embed analytics to differentiate their applications in a scalable way.
+- end-users can ask questions in their natural language and recieve naswers with pertinent visualizations.
+
+## AWS Cloud9 IDE
+- This has been discontinued, customers are encouraged to migrate to AWS IDE Toolkits or AWS CloudShell
+
+## AWS AppConfig and OpsWorks
+- AWS AppConfig is a feature of AWS Systems Manager that enables customers to generate manage, and rapidly install application configurations.
+- AWS OpsWorks is a configuration management service that helps you configure and operate applications in a cloud enterprise by using Puppet or Chef.
+
+## AWS Amplify
+- A total solution that enables frontend web and mobile delveopers to rapidly and seamlessly build, deploy and host full stack applications on AWS.
+
+## AWS AppSync
+- Generates serverless GraphQL and pub/sub APIs that make application development easy.
+
+## AWS AppStream 2.0
+- Fully managed non-persistent desktop and application service for remotely accessing work.
+
+## Amazon Connect
+- Allows customers to roll out a scalable contact center in minutes.
+
+## Amazon Simple Email Service (Amazon SES) 
+- Lets AWS customers reach their customers assertively without an on-premises Simple mail Transfer Protocol (SMTP) email server
+- It can use the Amazon SES API or SMTP interface
+
+## IoT Core
+- AWS IoT Core lets customers potentially connect billions of IoT devices and route trillions of messages to AWS services without managing an infractructure.
+- Provides secure device connections and data with mutual anuthentication and end-to-end encryption.
+- Customers can choose among several communication protocols including MQTT, HTTPS, MQTT over WSS, and LoRaWAN
+
+## IOT Greengrass
+- AWS IoT Greengrass is an open-source edge runtime and cloud service for building, deploying, and managing device software
+- Greengrass makes it eaasy to bring intelligence to edge devices, such as for anomaly detection in precision agricutlre or powering autonomous devices
+- Collect, aggregate, filter, and send data locally or manage and control which data goes to the cloud for optimized analytics and storage.
+
+## AWS Activate for Startups
+- Offers eligible startup organizations free tolls, resoureces, and content meant to streamline every phase of the startup initiative
+- New members get benefits such as:
+    - AWS curated expert advice on business and technical needs
+    - Training and support
+    - Pre-built infrastructure templates
+- Startups can apply for AWS Activate creadits to offset their AWS bill and build a new scalable, dependable, secure, and efficient infrastructure.
+
+## AWS IQ (like Fiver)
+- Enables customers to quickly find, engage, and pay AWS Certified third-party experts for on-demand project work.
+- AWS IQ also makes it easy for you to use your AWS Certifications to help AWS customers
+- With AWS IQ, you have a secure collaborative workspace for project consultations and an easy way to get paid
+
+## AWS Managed Services (AMS)
+- AWS AMS with the adoption of AWS at scale to operate more efficiently and securely
+- Enables customers to leverage standard AWS services and offers guidance and execution of operational best practices with specialized automation, skills, and experience for:
+    - Monitoring
+    - Incident management
+    - AWS Incident detection and Response 
+    - Security
+    - Patch and backup
+    - Cost Optimization
